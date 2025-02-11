@@ -1,0 +1,17 @@
+{
+  "name": "backend_mega_project",
+  "version": "1.0.0",
+  "description": "This is a YouTube clone for showcase purpose. Mega project with complexity through professionalisum",
+  "keywords": [
+    "Javascript",
+    "Backend",
+    "Aura999+"
+  ],
+  "license": "ISC",
+  "author": "Muhammad Siddiqur Rahman",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
